@@ -15,5 +15,4 @@ I like to develop things which are beneficial to the community.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=subinsk&layout=compact)](https://github.com/subinsk/github-readme-stats)
 
-
-                                            
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=subinsk&theme=buefy)](https://git.io/streak-stats)
