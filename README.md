@@ -8,8 +8,6 @@ I like to develop things which are beneficial to the community.
 <a href="https://www.linkedin.com/in/subin-sk-9b767219a/"> ![subinsk6](https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn)</a>
 
 <a href="https://twitter.com/SubinSK6">![alt text](https://img.shields.io/badge/-Twitter-1DA1F2?style=plastic&logo=Twitter) </a>
-                                            
-<a href="https://www.instagram.com/subin_sk/" >![subin_sk](https://img.shields.io/badge/-Instagram-833AB4?style=plastic&logo=Instagram)</a>
 
 [![Subin's github stats](https://github-readme-stats.vercel.app/api?username=subinsk)](https://github.com/subinsk/github-readme-stats)
 
