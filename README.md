@@ -1,5 +1,5 @@
 ### Hey there, I am Subin 👋
-I am a MERN Stack Developer and a ML/AI enthusiast.
+I am a MERN Stack Developer.
 <br>
 I like to develop things which are beneficial to the community.
 <br>
