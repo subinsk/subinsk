@@ -5,7 +5,7 @@ I am a MERN Stack Developer.
 <br>
 I like to develop things which are beneficial to the community.
 <br>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=subinsk" alt="subinsk" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=subinsk" alt="subinsk" /></a></p>
 
 ### My social media handles 👇🏻
 <a href="https://www.linkedin.com/in/subin-sk-9b767219a/"> ![subinsk6](https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn)</a>
